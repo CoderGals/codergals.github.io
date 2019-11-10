@@ -2,8 +2,12 @@
 title: "React Admin Dashboard"
 layout: post
 date: 2018-11-01
-tag: react
-image: "/assets/images/projects/react.png"
+tag: 
+- react
+- semantic-ui
+- storybook
+- redux
+image: "/assets/images/projects/reactAdmin.png"
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
