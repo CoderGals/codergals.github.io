@@ -17,8 +17,6 @@ author: AlbionaHoti
 externalLink: false
 ---
 
-![Demo]("/assets/images/projects/reactAdmin.jpg")
-
 Example of project - [Demo]("/assets/images/projects/reactAdmin.png"). 
 Admin Dashboard build with ReactJs and React Semantic UI. Which enables jump starting a new project with a prepared layout and React Semantic UI provides access to many useful components.
 ---
