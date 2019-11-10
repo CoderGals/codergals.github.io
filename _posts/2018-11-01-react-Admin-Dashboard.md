@@ -25,9 +25,9 @@ What has inside?
 
 - React
 - [Semantic UI Framework](https://react.semantic-ui.com/)
-- Jest
-- Storybook
-- Redux
+- [JestJs](https://jestjs.io/)
+- [Storybook](https://storybook.js.org/)
+- [ReduxJs](https://redux.js.org/)
 
 ---
 

@@ -12,7 +12,6 @@ tag:
 category: blog
 author: AlbionaHoti
 description: Remembrance day hackathon
-externalLink: false
 ---
 
 ##### 11th of November is the Remembrance Day.
@@ -26,3 +25,18 @@ externalLink: false
     <img class="image" src="/assets/images/remembrance_day_hackathon/hackathon.jpg" alt="Alt Text">
     <figcaption class="caption">Remembrance Day Hackathon</figcaption>
 </div>
+
+<p>
+	Why come?
+
+    learn new skills by doing a practical task
+    non-profit event: you retain intellectual property rights in your work, sharing it under the GPL or Creative Commons license
+    access to experienced mentors and networking opportunities
+    complete a highly meaningful project that will gain international recognition
+</br>
+</p>
+Supporters
+
+- <a href="https://ickosovo.com/">Innovation Center Kosovo</a>
+
+- <a href="https://codergals.github.io/">CoderGals</a>
