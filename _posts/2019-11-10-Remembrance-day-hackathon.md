@@ -2,7 +2,8 @@
 title: Remembrance Day Hackathon
 layout: post
 date: '2019-11-10 15:23:00'
-picture: "/assets/images/remembrance_day_hackathon/remembrance_day1.png"
+image: "/assets/images/remembrance_day_hackathon/remembrance_day1.png"
+headerImage: true
 tag:
 - hackathon
 - remembranceday
