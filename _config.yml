@@ -53,17 +53,23 @@ github: CoderGals
 email: albionahh@outlook.com
 
 authors:
-    Albiona:
+    AlbionaHoti:
         name: Albiona Hoti
         bio: 
         external-image: false
-        picture: assets/images/Albiona_Author.jpg
+        picture: assets/images/authors/AlbionaHoti.jpg
         twitter: albionaitoh
-    Qendresa:
+    QendresaHoti:
         name: Qendresa Hoti
         bio: A Man who develops software with coffee
         external-image: false
         picture: assets/images/james.jpg
+        twitter: jamesfoster
+    DanielPocock:
+        name: Daniel Pocock
+        bio: Software engineer, Free/Open Source Software Innovator, Debian Developer
+        external-image: false
+        picture: assets/authors/DanielPocock.jpg
         twitter: jamesfoster
 
 # do you want a larger site? change the option below

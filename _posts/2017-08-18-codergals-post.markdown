@@ -9,7 +9,7 @@ tag:
 - womenintech
 - codergals
 category: blog
-author: Albiona Hoti
+author: AlbionaHoti
 description: Coder Gals Hackathon
 ---
 
