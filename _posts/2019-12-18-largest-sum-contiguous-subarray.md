@@ -1,5 +1,20 @@
 ---
 title: Largest Sum Contiguous Subarray
+
+layout: post
+date: '2019-12-18 19:13:00'
+image: "/assets/images/leetcode/leetcode.png"
+headerImage: true
+tag:
+- leetcode
+- competitive-programming
+- codergals
+- opensource
+- tech-interviews
+category: blog
+author: AlbionaHoti
+description: LeetCode Challenges
+
 ---
 
 ## Largest Sum Contiguous Subarray
@@ -59,4 +74,5 @@ Loop for each element of the array
           
 return max_so_far
 
-}); {% endhighlight %}
+
+{% endhighlight %}
