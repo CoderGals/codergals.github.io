@@ -3,10 +3,11 @@ title: "React Admin Dashboard"
 layout: post
 date: 2018-11-01
 tag: 
-- react
+- React
 - semantic-ui
 - storybook
-- redux
+- Redux
+- JavaScript
 image: "/assets/images/projects/reactAdmin.png"
 headerImage: true
 projects: true
