@@ -16,10 +16,6 @@ author: AlbionaHoti
 description: LeetCode Challenges
 ---
 
-
-
-## Largest Sum Contiguous Subarray
-
 ## 88. Merge Sorted Array
 
     Given two sorted integer arrays nums1 and nums2, merge nums2
