@@ -5,12 +5,19 @@ layout: page
 
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p> CoderGals is a Non Profit Organization (NGO) that provides female students with practical experience to contribute to open source projects. This enables them to gain professional visibility that advances them in their careers.  
+<p> CoderGals is a Non Profit Organization (NGO), founded in 2017 by Qendresa Hoti and Albiona Hoti. </p>
 
-You are going to love how the hackathon is the place where you will
-get to meet smart and fun people. Connections are everything. If you are looking for new friends, jobs or internships, this is the place where you should be.
 
-Let’s build some cool stuff from scratch, whether it is a website, mobile app, or even hardware hack from Friday night to Sunday afternoon!!</p>
+
+### Details
+CoderGals organized the first event in August, 2017 which was the CoderGals hackathon in Prizren. 
+
+
+### Organizers
+[Qendresa Hoti](https://qendresahoti.wordpress.com/) and [Albiona Hoti](https://albiona.dev)
+
+CoderGals aims to help the community by organizing events, workshops on free and open source projects. For the community, this enables them to gain professional visibility that advances them in their careers.  
+
 
 <h2>We Provide the best ways to learn and gain those skills</h2>
 

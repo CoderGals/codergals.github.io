@@ -4,7 +4,6 @@ layout: post
 date: '2017-08-18 00:00:00'
 image: "/assets/images/Artboard 1.png"
 headerImage: true
-
 tag:
 - hackathon
 - womenintech
@@ -14,7 +13,12 @@ author: AlbionaHoti
 description: Coder Gals Hackathon
 ---
 
-##### Coding is the alphabet of 21st century. It is the way we think and we write. This weekend the historical city of Prizren hosted its very first hackathon CoderGals with the intention of gathering girls from around Kosovo to work on open source projects and to contribute for an open society.
+Coding is the alphabet of 21st century. It is the way we think and we write. This weekend the historical city of Prizren hosted its very first hackathon CoderGals with the intention of gathering girls from around Kosovo to work on open source projects and to contribute for an open society. 
+
+The event is the first that is supported from the [***Debian OS***](debian.org/) and the first of it's kind to start the Debian OS series of meetings in Kosovo. 
+
+### Organizers
+Qendresa and Albiona
 
 <div class="side-by-side">
     <div class="toright">
@@ -165,7 +169,12 @@ description: Coder Gals Hackathon
 </div>
 
 
-## We would like to thank all participants, mentors and sponsors for making it happen. See you soon…
+### We would like to thank all participants, mentors and sponsors for making it happen. 
+
+### Sponsors
+The event was sponsored from the [US Embassy in Kosovo](https://xk.usembassy.gov/), [Gjirafa50](https://gjirafa50.com/), [Debian OS](https://www.debian.org/), [Ipko](https://www.ipko.com/), [Cleveland Conuncil of World Affairs](https://www.ccwa.org/)
+
+See you soon…
 
 <div class="side-by-side">
     <img class="image" src="{{ site.url }}/assets/images/crew.jpg" alt="Alt Text">
