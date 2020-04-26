@@ -40,6 +40,11 @@ CoderGals aims to help the community by organizing events, workshops on free and
 
 <h2>Projects</h2>
 
+
+
+
 <ul>
+	<li>We are working on launching our monthly workshops, hands-on the MERN stack.</li>
+	<li><a href="https://codergals.github.io/react_counter/">React Counter</a></li>
 	<li><a href="https://github.com/AlbionaHoti/react_admin_dashboard">React Admin Dashboard</a></li>
 </ul>
